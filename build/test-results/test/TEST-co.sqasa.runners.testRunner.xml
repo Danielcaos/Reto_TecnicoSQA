@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.sqasa.runners.testRunner" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-10T21:22:57" hostname="DESKTOP-CAISJ9E" time="49.9">
+  <properties/>
+  <testcase name="Add product love to cart success" classname="co.sqasa.runners.testRunner" time="49.9"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[oct 10, 2023 4:22:59 PM org.openqa.selenium.remote.RemoteWebDriver checkNonW3CCapabilities
+ADVERTENCIA: Support for Legacy Capabilities is deprecated; You are sending the following invalid capabilities: [prefs]; Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+1696972979903	geckodriver	INFO	Listening on 127.0.0.1:44062
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+WebDriver BiDi listening on ws://127.0.0.1:9271
+Read port: 53610
+DevTools listening on ws://127.0.0.1:9271/devtools/browser/6fb7cca4-d038-404d-99b2-3fb6ebaad185
+oct 10, 2023 4:23:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ADVERTENCIA: Support for Legacy Capabilities is deprecated; You are sending the following invalid capabilities: [prefs]; Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.floristeriamundoflor.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.floristeriamundoflor.com."
+Dynamically enable window occlusion 1
+?[32m?[1m??????????????????????????????????????????????????????????????????????????????????????[0m
+?[32m?[1m??[0m Share your Cucumber Report with your team at ?[36m?[1m?[4mhttps://reports.cucumber.io?[0m          ?[32m?[1m??[0m
+?[32m?[1m??[0m Activate publishing with one of the following:                                    ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/cucumber.properties:          ?[36mcucumber.publish.enabled?[0m=?[36mtrue?[0m    ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/junit-platform.properties:    ?[36mcucumber.publish.enabled?[0m=?[36mtrue?[0m    ?[32m?[1m??[0m
+?[32m?[1m??[0m Environment variable:                            ?[36mCUCUMBER_PUBLISH_ENABLED?[0m=?[36mtrue?[0m    ?[32m?[1m??[0m
+?[32m?[1m??[0m JUnit:                                           ?[36m@CucumberOptions?[0m(publish = ?[36mtrue?[0m) ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m More information at ?[36mhttps://cucumber.io/docs/cucumber/environment-variables/?[0m      ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m Disable this message with one of the following:                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/cucumber.properties:          ?[36mcucumber.publish.quiet?[0m=?[36mtrue?[0m      ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/junit-platform.properties:    ?[36mcucumber.publish.quiet?[0m=?[36mtrue?[0m      ?[32m?[1m??[0m
+?[32m?[1m??????????????????????????????????????????????????????????????????????????????????????[0m
+]]></system-err>
+</testsuite>
